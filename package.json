@@ -1,0 +1,21 @@
+{
+  "name": "2021_5_stock_bot",
+  "version": "1.0.0",
+  "description": "Asset trading bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis E. Fernandez de la Vara",
+  "license": "ISC",
+  "dependencies": {
+    "coinbase-pro": "^0.9.0",
+    "colors": "^1.4.0",
+    "commander": "^7.2.0",
+    "prompt-sync": "^4.2.0",
+    "randomstring": "^1.2.1",
+    "tulind": "^0.8.18",
+    "uuid": "^8.3.2"
+  }
+}

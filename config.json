@@ -1,0 +1,6 @@
+{
+    "GDAX_API_KEY" : "YOUR-GDAX-KEY",
+    "GDAX_API_SECRET" : "API_SECRET",
+    "GDAX_API_PASSPHRASE" : "GDAX_PASSWD",
+    "GDAX_API_URL" : "https://api.gdax.com"
+}
